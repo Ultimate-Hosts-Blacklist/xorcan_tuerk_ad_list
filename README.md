@@ -1,10 +1,20 @@
-# About [repository-name]
+# About xorcan_tuerk_ad_list
 
-[![Build Status](https://travis-ci.org/[repository-slug].svg?branch=master)](https://travis-ci.org/[repository-slug])
+[![Build Status](https://travis-ci.org/Ultimate-Hosts-Blacklist/xorcan_tuerk_ad_list.svg?branch=master)](https://travis-ci.org/Ultimate-Hosts-Blacklist/xorcan_tuerk_ad_list)
 
 
 ```
-[description]
+# Title: ❤xorcan❤ Türk ad-list
+# Format: Hosts
+# Released: 22.08.2019
+# Entries: 3615
+# Details: https://github.com/xorcan/hosts/
+# Issues: https://github.com/xorcan/hosts/issues
+# Source: https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt
+# License: https://raw.githubusercontent.com/xorcan/hosts/master/LICENSE
+
+# Reklam bildirimi / iletişim: xorcan@yandex.com
+# Report an ad / contact: xorcan@yandex.com
 ```
 
 --------------------------------------------------------------------------------
