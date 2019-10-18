@@ -609,6 +609,11 @@
         "expiration_date": "20-jan-2020",
         "state": "future"
     },
+    "amobil.online": {
+        "epoch": 1622592000,
+        "expiration_date": "02-jun-2021",
+        "state": "future"
+    },
     "anadoluelektrik.com.tr": {
         "epoch": 1682899200,
         "expiration_date": "01-may-2023",
@@ -1612,6 +1617,11 @@
     "elizimuhendislik.com": {
         "epoch": 1600214400,
         "expiration_date": "16-sep-2020",
+        "state": "future"
+    },
+    "elizimuhendislik.xyz": {
+        "epoch": 1575158400,
+        "expiration_date": "01-dec-2019",
         "state": "future"
     },
     "emlakevi.istanbul": {
@@ -4322,6 +4332,11 @@
     "walid.info": {
         "epoch": 1612224000,
         "expiration_date": "02-feb-2021",
+        "state": "future"
+    },
+    "wbidder.online": {
+        "epoch": 1601856000,
+        "expiration_date": "05-oct-2020",
         "state": "future"
     },
     "webinstats.com": {
