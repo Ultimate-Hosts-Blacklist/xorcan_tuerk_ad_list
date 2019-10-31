@@ -585,8 +585,8 @@
         "state": "future"
     },
     "adnatro.com": {
-        "epoch": 1572307200,
-        "expiration_date": "29-oct-2019",
+        "epoch": 1603929600,
+        "expiration_date": "29-oct-2020",
         "state": "future"
     },
     "adnet.com.tr": {
@@ -883,6 +883,11 @@
         "epoch": 1627603200,
         "expiration_date": "30-jul-2021",
         "state": "future"
+    },
+    "agkoleksiyon.com.tr": {
+        "epoch": 1567468800,
+        "expiration_date": "03-sep-2019",
+        "state": "past"
     },
     "aglamasenfistik.com": {
         "epoch": 1586390400,
@@ -6807,6 +6812,11 @@
     "peteklerbatsin.com": {
         "epoch": 1580774400,
         "expiration_date": "04-feb-2020",
+        "state": "future"
+    },
+    "petesplastik.com.tr": {
+        "epoch": 1666396800,
+        "expiration_date": "22-oct-2022",
         "state": "future"
     },
     "pheergar.com": {
