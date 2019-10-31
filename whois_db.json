@@ -4849,6 +4849,11 @@
         "expiration_date": "12-feb-2020",
         "state": "future"
     },
+    "kardelenozelegitim.com": {
+        "epoch": 1589932800,
+        "expiration_date": "20-may-2020",
+        "state": "future"
+    },
     "kardelentekstil.com.tr": {
         "epoch": 1616716800,
         "expiration_date": "26-mar-2021",
@@ -6467,6 +6472,11 @@
     "onscroll.com": {
         "epoch": 1593388800,
         "expiration_date": "29-jun-2020",
+        "state": "future"
+    },
+    "ontek-serv.com": {
+        "epoch": 1604016000,
+        "expiration_date": "30-oct-2020",
         "state": "future"
     },
     "onthe.io": {
