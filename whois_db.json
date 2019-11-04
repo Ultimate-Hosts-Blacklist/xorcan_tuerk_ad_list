@@ -2084,6 +2084,11 @@
         "expiration_date": "14-dec-2019",
         "state": "future"
     },
+    "binarymoney.site": {
+        "epoch": 1574899200,
+        "expiration_date": "28-nov-2019",
+        "state": "future"
+    },
     "binomo.com": {
         "epoch": 1596672000,
         "expiration_date": "06-aug-2020",
@@ -6369,6 +6374,11 @@
         "expiration_date": "06-sep-2020",
         "state": "future"
     },
+    "notifications.website": {
+        "epoch": 1599696000,
+        "expiration_date": "10-sep-2020",
+        "state": "future"
+    },
     "notifychheck.com": {
         "epoch": 1596240000,
         "expiration_date": "01-aug-2020",
@@ -7825,9 +7835,9 @@
         "state": "future"
     },
     "sigaramakinesi.gen.tr": {
-        "epoch": 1572739200,
-        "expiration_date": "03-nov-2019",
-        "state": "past"
+        "epoch": 1604361600,
+        "expiration_date": "03-nov-2020",
+        "state": "future"
     },
     "sigortaline.com.tr": {
         "epoch": 1597449600,
