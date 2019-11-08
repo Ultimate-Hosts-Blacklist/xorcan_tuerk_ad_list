@@ -1630,7 +1630,7 @@
         "state": "future"
     },
     "betpot5.com": {
-        "epoch": 1567641600,
+        "epoch": 1567641600.0,
         "expiration_date": "05-sep-2019",
         "state": "past"
     },
@@ -4235,7 +4235,7 @@
         "state": "future"
     },
     "konjacteaturkiye.com": {
-        "epoch": 1568937600,
+        "epoch": 1568937600.0,
         "expiration_date": "20-sep-2019",
         "state": "past"
     },
@@ -4575,7 +4575,7 @@
         "state": "future"
     },
     "mavikoruinsaat.com": {
-        "epoch": 1567814400,
+        "epoch": 1567814400.0,
         "expiration_date": "07-sep-2019",
         "state": "past"
     },
@@ -5423,6 +5423,11 @@
         "epoch": 1601510400,
         "expiration_date": "01-oct-2020",
         "state": "future"
+    },
+    "offergold.online": {
+        "epoch": 1570060800.0,
+        "expiration_date": "03-oct-2019",
+        "state": "past"
     },
     "offinator.com": {
         "epoch": 1595289600,
@@ -6757,6 +6762,11 @@
     "skycloud.biz": {
         "epoch": 1592438400,
         "expiration_date": "18-jun-2020",
+        "state": "future"
+    },
+    "skyhorse.site": {
+        "epoch": 1591488000.0,
+        "expiration_date": "07-jun-2020",
         "state": "future"
     },
     "skypidar.club": {
