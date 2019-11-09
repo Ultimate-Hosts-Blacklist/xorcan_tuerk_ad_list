@@ -649,6 +649,11 @@
         "expiration_date": "16-jan-2020",
         "state": "future"
     },
+    "adoutput.com": {
+        "epoch": 1623369600.0,
+        "expiration_date": "11-jun-2021",
+        "state": "future"
+    },
     "adplxmd.com": {
         "epoch": 1588982400,
         "expiration_date": "09-may-2020",
@@ -7575,7 +7580,7 @@
         "state": "future"
     },
     "sensellojistik.com.tr": {
-        "epoch": 1569196800,
+        "epoch": 1569196800.0,
         "expiration_date": "23-sep-2019",
         "state": "past"
     },
@@ -8197,6 +8202,11 @@
     "tasdanyapi.com.tr": {
         "epoch": 1579046400,
         "expiration_date": "15-jan-2020",
+        "state": "future"
+    },
+    "tecnocoffee.com.tr": {
+        "epoch": 1701648000.0,
+        "expiration_date": "04-dec-2023",
         "state": "future"
     },
     "teenomania.com": {
