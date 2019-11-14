@@ -1289,6 +1289,11 @@
         "expiration_date": "23-mar-2020",
         "state": "future"
     },
+    "antalyahabercisi.com": {
+        "epoch": 1598659200.0,
+        "expiration_date": "29-aug-2020",
+        "state": "future"
+    },
     "antalyaipl.com": {
         "epoch": 1584576000,
         "expiration_date": "19-mar-2020",
@@ -3262,6 +3267,11 @@
     "emlakwebtasarim.com": {
         "epoch": 1583280000.0,
         "expiration_date": "04-mar-2020",
+        "state": "future"
+    },
+    "emrahucar.com.tr": {
+        "epoch": 1635552000.0,
+        "expiration_date": "30-oct-2021",
         "state": "future"
     },
     "emrecengiz.com.tr": {
@@ -7780,9 +7790,9 @@
         "state": "future"
     },
     "shootpower.com.tr": {
-        "epoch": 1566604800.0,
-        "expiration_date": "24-aug-2019",
-        "state": "past"
+        "epoch": 1598227200.0,
+        "expiration_date": "24-aug-2020",
+        "state": "future"
     },
     "shorteh.com": {
         "epoch": 1582761600,
