@@ -1044,6 +1044,11 @@
         "expiration_date": "08-sep-2019",
         "state": "past"
     },
+    "karabaglarmobilya.com": {
+        "epoch": 1583884800.0,
+        "expiration_date": "11-mar-2020",
+        "state": "future"
+    },
     "kimsesizkitaplar.com": {
         "epoch": 1581379200.0,
         "expiration_date": "11-feb-2020",
@@ -1305,6 +1310,11 @@
         "state": "future"
     },
     "mobileoffers-be-download.com": {
+        "epoch": 1585267200.0,
+        "expiration_date": "27-mar-2020",
+        "state": "future"
+    },
+    "mobileoffers-bf-download.com": {
         "epoch": 1585267200.0,
         "expiration_date": "27-mar-2020",
         "state": "future"
