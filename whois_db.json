@@ -5514,6 +5514,11 @@
         "expiration_date": "05-aug-2027",
         "state": "future"
     },
+    "mobilehero3s.com": {
+        "epoch": 1584921600.0,
+        "expiration_date": "23-mar-2020",
+        "state": "future"
+    },
     "mobileoffers-aa-download.com": {
         "epoch": 1582156800.0,
         "expiration_date": "20-feb-2020",
@@ -8024,6 +8029,11 @@
         "expiration_date": "17-may-2020",
         "state": "future"
     },
+    "tasdanlar.com.tr": {
+        "epoch": 1618444800.0,
+        "expiration_date": "15-apr-2021",
+        "state": "future"
+    },
     "tasdanyapi.com.tr": {
         "epoch": 1579046400.0,
         "expiration_date": "15-jan-2020",
@@ -8410,9 +8420,9 @@
         "state": "future"
     },
     "turngrind.com": {
-        "epoch": 1575072000.0,
-        "expiration_date": "30-nov-2019",
-        "state": "past"
+        "epoch": 1606694400.0,
+        "expiration_date": "30-nov-2020",
+        "state": "future"
     },
     "tursanmakine.com.tr": {
         "epoch": 1597190400.0,
