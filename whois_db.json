@@ -3514,6 +3514,11 @@
         "expiration_date": "06-feb-2022",
         "state": "future"
     },
+    "evkurnakliyat.com.tr": {
+        "epoch": 1622851200.0,
+        "expiration_date": "05-jun-2021",
+        "state": "future"
+    },
     "exclusivas2r.com": {
         "epoch": 1577491200.0,
         "expiration_date": "28-dec-2019",
@@ -7472,7 +7477,7 @@
     "rtbeasttrackwlsp.info": {
         "epoch": 1575417600.0,
         "expiration_date": "04-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "ruberu.com.tr": {
         "epoch": 1601683200.0,
