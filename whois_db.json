@@ -5849,6 +5849,11 @@
         "expiration_date": "08-apr-2020",
         "state": "future"
     },
+    "mobileoffers-bp-download.com": {
+        "epoch": 1586304000.0,
+        "expiration_date": "08-apr-2020",
+        "state": "future"
+    },
     "mobileoffers-bq-download.com": {
         "epoch": 1586304000.0,
         "expiration_date": "08-apr-2020",
@@ -7385,6 +7390,11 @@
         "state": "future"
     },
     "rlink.live": {
+        "epoch": 1595980800.0,
+        "expiration_date": "29-jul-2020",
+        "state": "future"
+    },
+    "rlink.xyz": {
         "epoch": 1595980800.0,
         "expiration_date": "29-jul-2020",
         "state": "future"
