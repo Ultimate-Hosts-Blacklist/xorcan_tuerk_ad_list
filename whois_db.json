@@ -4974,6 +4974,11 @@
         "expiration_date": "28-sep-2027",
         "state": "future"
     },
+    "kitapci.ga": {
+        "epoch": 1601251200.0,
+        "expiration_date": "28-sep-2020",
+        "state": "future"
+    },
     "kitapindir.gen.tr": {
         "epoch": 1621209600.0,
         "expiration_date": "17-may-2021",
@@ -6349,6 +6354,11 @@
         "expiration_date": "07-oct-2020",
         "state": "future"
     },
+    "notifications.website": {
+        "epoch": 1599696000.0,
+        "expiration_date": "10-sep-2020",
+        "state": "future"
+    },
     "notifychheck.com": {
         "epoch": 1596240000.0,
         "expiration_date": "01-aug-2020",
@@ -7495,9 +7505,9 @@
         "state": "future"
     },
     "rtbeasttrackwlsp.info": {
-        "epoch": 1575417600.0,
-        "expiration_date": "04-dec-2019",
-        "state": "past"
+        "epoch": 1607040000.0,
+        "expiration_date": "04-dec-2020",
+        "state": "future"
     },
     "ruberu.com.tr": {
         "epoch": 1601683200.0,
@@ -9177,6 +9187,11 @@
     "x-sports.mobi": {
         "epoch": 1584230400.0,
         "expiration_date": "15-mar-2020",
+        "state": "future"
+    },
+    "xbtitfm.com": {
+        "epoch": 1604620800.0,
+        "expiration_date": "06-nov-2020",
         "state": "future"
     },
     "xeroxyaziciservisi.istanbul": {
