@@ -3482,7 +3482,7 @@
     "etkenkalip.com": {
         "epoch": 1575504000.0,
         "expiration_date": "05-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "etracker.com": {
         "epoch": 1606003200.0,
@@ -4650,9 +4650,9 @@
         "state": "future"
     },
     "istanbulyilbasimekanlari.com": {
-        "epoch": 1575244800.0,
-        "expiration_date": "02-dec-2019",
-        "state": "past"
+        "epoch": 1606867200.0,
+        "expiration_date": "02-dec-2020",
+        "state": "future"
     },
     "istasyontedarik.com.tr": {
         "epoch": 1583798400.0,
@@ -7492,7 +7492,7 @@
     "roseajans.club": {
         "epoch": 1575417600.0,
         "expiration_date": "04-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "rotabet62.com": {
         "epoch": 1603929600.0,
