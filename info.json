@@ -1,19 +1,19 @@
 {
     "current_stats": {
-        "builds": 6,
+        "builds": 7,
         "counter": {
-            "down": 991,
+            "down": 1164,
             "invalid": 1,
-            "tested": 3999,
-            "up": 3007
+            "tested": 4735,
+            "up": 3570
         }
     },
     "currently_under_test": "1",
     "days_until_next_test": 2,
     "end_datetime": "Mon Dec 16 13:49:32 2019",
     "end_epoch": 1576504172.32743,
-    "last_autosave_datetime": "Tue Dec 17 07:07:47 2019",
-    "last_autosave_epoch": 1576566467.397012,
+    "last_autosave_datetime": "Tue Dec 17 08:24:02 2019",
+    "last_autosave_epoch": 1576571042.289187,
     "name": "xorcan_tuerk_ad_list",
     "previous_stats": {
         "builds": 18,
