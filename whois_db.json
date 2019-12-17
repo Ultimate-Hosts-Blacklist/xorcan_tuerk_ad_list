@@ -6232,7 +6232,7 @@
     "mutlugunlerde.com.tr": {
         "epoch": 1576540800.0,
         "expiration_date": "17-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "mxplay.com": {
         "epoch": 1813795200.0,
@@ -9162,6 +9162,11 @@
     "videoskor.net": {
         "epoch": 1583971200.0,
         "expiration_date": "12-mar-2020",
+        "state": "future"
+    },
+    "videoustu.com": {
+        "epoch": 1608076800.0,
+        "expiration_date": "16-dec-2020",
         "state": "future"
     },
     "vidlox.me": {
