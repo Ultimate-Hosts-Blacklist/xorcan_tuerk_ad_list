@@ -3887,7 +3887,7 @@
     "firmamentum.com.tr": {
         "epoch": 1577836800.0,
         "expiration_date": "01-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "firsathaber.net": {
         "epoch": 1584576000.0,
@@ -8802,6 +8802,11 @@
     "studads.com": {
         "epoch": 1680220800.0,
         "expiration_date": "31-mar-2023",
+        "state": "future"
+    },
+    "sultanbet213.com": {
+        "epoch": 1609372800.0,
+        "expiration_date": "31-dec-2020",
         "state": "future"
     },
     "sultanpromo.com": {
