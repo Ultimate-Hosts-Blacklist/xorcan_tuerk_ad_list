@@ -2494,6 +2494,11 @@
         "expiration_date": "24-may-2021",
         "state": "future"
     },
+    "capcanlisohbet.site": {
+        "epoch": 1571875200.0,
+        "expiration_date": "24-oct-2019",
+        "state": "past"
+    },
     "casalemedia.com": {
         "epoch": 1697673600.0,
         "expiration_date": "19-oct-2023",
@@ -7208,6 +7213,11 @@
         "epoch": 1601164800.0,
         "expiration_date": "27-sep-2020",
         "state": "future"
+    },
+    "plutonium.icu": {
+        "epoch": 1571875200.0,
+        "expiration_date": "24-oct-2019",
+        "state": "past"
     },
     "pmelon.com": {
         "epoch": 1592870400.0,
