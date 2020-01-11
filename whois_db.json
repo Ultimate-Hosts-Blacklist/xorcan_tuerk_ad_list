@@ -1499,6 +1499,11 @@
         "expiration_date": "03-dec-2023",
         "state": "future"
     },
+    "artibirinsaat.com.tr": {
+        "epoch": 1580256000.0,
+        "expiration_date": "29-jan-2020",
+        "state": "future"
+    },
     "artistanbul.tv": {
         "epoch": 1647820800.0,
         "expiration_date": "21-mar-2022",
@@ -2167,6 +2172,11 @@
     "birlesikbir.com.tr": {
         "epoch": 1686528000.0,
         "expiration_date": "12-jun-2023",
+        "state": "future"
+    },
+    "birlikbilisim.com.tr": {
+        "epoch": 1609459200.0,
+        "expiration_date": "01-jan-2021",
         "state": "future"
     },
     "birolmuhendislik.com.tr": {
@@ -7209,6 +7219,11 @@
         "expiration_date": "04-feb-2020",
         "state": "future"
     },
+    "petesplastik.com.tr": {
+        "epoch": 1666396800.0,
+        "expiration_date": "22-oct-2022",
+        "state": "future"
+    },
     "phaseforex2.com": {
         "epoch": 1596931200.0,
         "expiration_date": "09-aug-2020",
@@ -8144,6 +8159,11 @@
         "expiration_date": "13-nov-2021",
         "state": "future"
     },
+    "shakesmobi.com": {
+        "epoch": 1604966400.0,
+        "expiration_date": "10-nov-2020",
+        "state": "future"
+    },
     "shikshakhaber.com": {
         "epoch": 1609286400.0,
         "expiration_date": "30-dec-2020",
@@ -8615,8 +8635,8 @@
         "state": "future"
     },
     "superbahis681.com": {
-        "epoch": 1578355200.0,
-        "expiration_date": "07-jan-2020",
+        "epoch": 1609977600.0,
+        "expiration_date": "07-jan-2021",
         "state": "future"
     },
     "supercell.net": {
@@ -9542,7 +9562,7 @@
     "webtrekk.net": {
         "epoch": 1578614400.0,
         "expiration_date": "10-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "webuny.com": {
         "epoch": 1610409600.0,
