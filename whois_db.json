@@ -1809,6 +1809,11 @@
         "expiration_date": "28-feb-2020",
         "state": "future"
     },
+    "bakirkoytercume.com.tr": {
+        "epoch": 1590019200.0,
+        "expiration_date": "21-may-2020",
+        "state": "future"
+    },
     "balakar.com.tr": {
         "epoch": 1650067200.0,
         "expiration_date": "16-apr-2022",
@@ -2612,6 +2617,11 @@
     "cea9d3d4f74fb831.com": {
         "epoch": 1594252800.0,
         "expiration_date": "09-jul-2020",
+        "state": "future"
+    },
+    "ceda.com.tr": {
+        "epoch": 1606608000.0,
+        "expiration_date": "29-nov-2020",
         "state": "future"
     },
     "cedexis.com": {
@@ -4582,7 +4592,7 @@
     "hotellazeez.com": {
         "epoch": 1578700800.0,
         "expiration_date": "11-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "hotelsclubantalya.com": {
         "epoch": 1602115200.0,
@@ -4832,6 +4842,11 @@
     "installads.org": {
         "epoch": 1597968000.0,
         "expiration_date": "21-aug-2020",
+        "state": "future"
+    },
+    "intekyapi.com.tr": {
+        "epoch": 1643155200.0,
+        "expiration_date": "26-jan-2022",
         "state": "future"
     },
     "inwo.pw": {
@@ -5832,6 +5847,11 @@
     "matbaam.com.tr": {
         "epoch": 1579564800.0,
         "expiration_date": "21-jan-2020",
+        "state": "future"
+    },
+    "mavibilisim.com.tr": {
+        "epoch": 1664064000.0,
+        "expiration_date": "25-sep-2022",
         "state": "future"
     },
     "mavidost.com": {
@@ -6924,6 +6944,11 @@
         "expiration_date": "27-apr-2020",
         "state": "future"
     },
+    "ondokuzmuoldu.com": {
+        "epoch": 1580774400.0,
+        "expiration_date": "04-feb-2020",
+        "state": "future"
+    },
     "onedatedem2.com": {
         "epoch": 1580688000.0,
         "expiration_date": "03-feb-2020",
@@ -7385,8 +7410,8 @@
         "state": "future"
     },
     "pixenka.com": {
-        "epoch": 1578528000.0,
-        "expiration_date": "09-jan-2020",
+        "epoch": 1610150400.0,
+        "expiration_date": "09-jan-2021",
         "state": "future"
     },
     "pizzakusadasi.com": {
@@ -8312,6 +8337,11 @@
     "shikshakhaber.com": {
         "epoch": 1609286400.0,
         "expiration_date": "30-dec-2020",
+        "state": "future"
+    },
+    "shootpower.com.tr": {
+        "epoch": 1598227200.0,
+        "expiration_date": "24-aug-2020",
         "state": "future"
     },
     "shorteh.com": {
@@ -10125,8 +10155,8 @@
         "state": "future"
     },
     "yenibanyo.com": {
-        "epoch": 1578355200.0,
-        "expiration_date": "07-jan-2020",
+        "epoch": 1609977600.0,
+        "expiration_date": "07-jan-2021",
         "state": "future"
     },
     "yeniklasor.com": {
