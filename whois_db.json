@@ -2234,6 +2234,11 @@
         "expiration_date": "21-apr-2020",
         "state": "future"
     },
+    "sportdigi.com": {
+        "epoch": 1598140800.0,
+        "expiration_date": "23-aug-2020",
+        "state": "future"
+    },
     "sportpelli.com": {
         "epoch": 1583712000.0,
         "expiration_date": "09-mar-2020",
@@ -2712,6 +2717,11 @@
     "zqseasmu.com": {
         "epoch": 1591747200.0,
         "expiration_date": "10-jun-2020",
+        "state": "future"
+    },
+    "zuzodoad.com": {
+        "epoch": 1586217600.0,
+        "expiration_date": "07-apr-2020",
         "state": "future"
     }
 }
