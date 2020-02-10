@@ -44,6 +44,11 @@
         "expiration_date": "13-dec-2019",
         "state": "past"
     },
+    "1xbit8.com": {
+        "epoch": 1609027200.0,
+        "expiration_date": "27-dec-2020",
+        "state": "future"
+    },
     "1xreddafq.world": {
         "epoch": 1583020800.0,
         "expiration_date": "01-mar-2020",
@@ -52,6 +57,11 @@
     "1xredrveu.world": {
         "epoch": 1583020800.0,
         "expiration_date": "01-mar-2020",
+        "state": "future"
+    },
+    "1xsport.mobi": {
+        "epoch": 1589500800.0,
+        "expiration_date": "15-may-2020",
         "state": "future"
     },
     "389807.com": {
@@ -2697,6 +2707,11 @@
     "yakinindaki-kizlar33.info": {
         "epoch": 1585180800.0,
         "expiration_date": "26-mar-2020",
+        "state": "future"
+    },
+    "yakinindaki-kizlar4.info": {
+        "epoch": 1588118400.0,
+        "expiration_date": "29-apr-2020",
         "state": "future"
     },
     "yakinindaki-kizlar5.info": {
