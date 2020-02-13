@@ -1,10 +1,19 @@
 {
-    "currently_under_test": "0",
+    "current_stats": {
+        "builds": 1,
+        "counter": {
+            "down": 136,
+            "invalid": 2,
+            "tested": 667,
+            "up": 529
+        }
+    },
+    "currently_under_test": "1",
     "days_until_next_test": 2,
     "end_datetime": "Wed Feb 12 12:19:28 2020",
     "end_epoch": 1581509968.00851,
-    "last_autosave_datetime": "Wed Feb 12 11:11:49 2020",
-    "last_autosave_epoch": 1581505909.605245,
+    "last_autosave_datetime": "Thu Feb 13 00:33:48 2020",
+    "last_autosave_epoch": 1581554028.483661,
     "name": "xorcan_tuerk_ad_list",
     "previous_stats": {
         "builds": 14,
@@ -20,6 +29,6 @@
         "whitelisted.list": 4977
     },
     "raw_link": "https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt",
-    "start_datetime": "Wed Feb 12 00:28:13 2020",
-    "start_epoch": 1581467293.278567
+    "start_datetime": "Thu Feb 13 00:23:45 2020",
+    "start_epoch": 1581553425.815149
 }
