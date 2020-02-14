@@ -1,32 +1,23 @@
 {
-    "current_stats": {
-        "builds": 53,
+    "currently_under_test": "0",
+    "days_until_next_test": 2,
+    "end_datetime": "Fri Feb 14 23:14:08 2020",
+    "end_epoch": 1581722048.809623,
+    "last_autosave_datetime": "Fri Feb 14 22:24:25 2020",
+    "last_autosave_epoch": 1581719065.340431,
+    "name": "xorcan_tuerk_ad_list",
+    "previous_stats": {
+        "builds": 54,
+        "clean.list": 4991,
         "counter": {
             "down": 2758,
             "invalid": 5,
             "tested": 7754,
             "up": 4991
-        }
-    },
-    "currently_under_test": "1",
-    "days_until_next_test": 2,
-    "end_datetime": "Wed Feb 12 12:19:28 2020",
-    "end_epoch": 1581509968.00851,
-    "last_autosave_datetime": "Fri Feb 14 22:24:25 2020",
-    "last_autosave_epoch": 1581719065.340431,
-    "name": "xorcan_tuerk_ad_list",
-    "previous_stats": {
-        "builds": 14,
-        "clean.list": 4982,
-        "counter": {
-            "down": 2747,
-            "invalid": 5,
-            "tested": 7734,
-            "up": 4982
         },
-        "domains.list": 7734,
-        "volatile.list": 4977,
-        "whitelisted.list": 4977
+        "domains.list": 7754,
+        "volatile.list": 4986,
+        "whitelisted.list": 4986
     },
     "raw_link": "https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt",
     "start_datetime": "Thu Feb 13 00:23:45 2020",
