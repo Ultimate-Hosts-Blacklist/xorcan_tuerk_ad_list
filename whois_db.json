@@ -49,6 +49,11 @@
         "expiration_date": "01-mar-2020",
         "state": "future"
     },
+    "2clicks.xyz": {
+        "epoch": 1590796800.0,
+        "expiration_date": "30-may-2020",
+        "state": "future"
+    },
     "2mdn.net": {
         "epoch": 1588377600.0,
         "expiration_date": "02-may-2020",
@@ -159,6 +164,11 @@
         "expiration_date": "04-jan-2021",
         "state": "future"
     },
+    "amazon-adsystem.com": {
+        "epoch": 1726444800.0,
+        "expiration_date": "16-sep-2024",
+        "state": "future"
+    },
     "ankara24saatcicek.com": {
         "epoch": 1577404800.0,
         "expiration_date": "27-dec-2019",
@@ -204,6 +214,11 @@
         "expiration_date": "25-mar-2020",
         "state": "future"
     },
+    "baipagid.com": {
+        "epoch": 1582848000.0,
+        "expiration_date": "28-feb-2020",
+        "state": "future"
+    },
     "bashirian.biz": {
         "epoch": 1585440000.0,
         "expiration_date": "29-mar-2020",
@@ -232,6 +247,11 @@
     "betwinner22.com": {
         "epoch": 1583020800.0,
         "expiration_date": "01-mar-2020",
+        "state": "future"
+    },
+    "betwinnerpromo.com": {
+        "epoch": 1612051200.0,
+        "expiration_date": "31-jan-2021",
         "state": "future"
     },
     "bidstraff.com": {
@@ -328,6 +348,11 @@
         "epoch": 1577750400.0,
         "expiration_date": "31-dec-2019",
         "state": "past"
+    },
+    "clotezar.com": {
+        "epoch": 1616025600.0,
+        "expiration_date": "18-mar-2021",
+        "state": "future"
     },
     "coinhive.com": {
         "epoch": 1606780800.0,
@@ -439,6 +464,11 @@
         "expiration_date": "25-jun-2020",
         "state": "future"
     },
+    "eokul-meb.com": {
+        "epoch": 1611187200.0,
+        "expiration_date": "21-jan-2021",
+        "state": "future"
+    },
     "ercoyintu.com": {
         "epoch": 1584835200.0,
         "expiration_date": "22-mar-2020",
@@ -539,6 +569,11 @@
         "expiration_date": "26-dec-2019",
         "state": "past"
     },
+    "hasekimuhendislik.com": {
+        "epoch": 1601769600.0,
+        "expiration_date": "04-oct-2020",
+        "state": "future"
+    },
     "haupsoti.net": {
         "epoch": 1612915200.0,
         "expiration_date": "10-feb-2021",
@@ -562,6 +597,11 @@
     "indiatoturkey.com": {
         "epoch": 1596240000.0,
         "expiration_date": "01-aug-2020",
+        "state": "future"
+    },
+    "indisancal.com": {
+        "epoch": 1602288000.0,
+        "expiration_date": "10-oct-2020",
         "state": "future"
     },
     "insertcoinage.com": {
@@ -628,6 +668,11 @@
         "epoch": 1621209600.0,
         "expiration_date": "17-may-2021",
         "state": "future"
+    },
+    "kitapindir.web.tr": {
+        "epoch": 1581724800.0,
+        "expiration_date": "15-feb-2020",
+        "state": "past"
     },
     "krxd.net": {
         "epoch": 1621296000.0,
@@ -779,6 +824,11 @@
         "expiration_date": "28-feb-2020",
         "state": "future"
     },
+    "mobileoffers-aj-download.com": {
+        "epoch": 1582848000.0,
+        "expiration_date": "28-feb-2020",
+        "state": "future"
+    },
     "mobileoffers-al-download.com": {
         "epoch": 1582848000.0,
         "expiration_date": "28-feb-2020",
@@ -865,6 +915,11 @@
         "state": "future"
     },
     "mobileoffers-bo-download.com": {
+        "epoch": 1586304000.0,
+        "expiration_date": "08-apr-2020",
+        "state": "future"
+    },
+    "mobileoffers-bp-download.com": {
         "epoch": 1586304000.0,
         "expiration_date": "08-apr-2020",
         "state": "future"
@@ -964,6 +1019,11 @@
         "expiration_date": "11-dec-2020",
         "state": "future"
     },
+    "newsmagic.net": {
+        "epoch": 1613606400.0,
+        "expiration_date": "18-feb-2021",
+        "state": "future"
+    },
     "newswe.org": {
         "epoch": 1613606400.0,
         "expiration_date": "18-feb-2021",
@@ -1034,6 +1094,11 @@
         "expiration_date": "01-nov-2020",
         "state": "future"
     },
+    "paibopse.com": {
+        "epoch": 1583798400.0,
+        "expiration_date": "10-mar-2020",
+        "state": "future"
+    },
     "patchworkistanbul.com": {
         "epoch": 1593734400.0,
         "expiration_date": "03-jul-2020",
@@ -1084,9 +1149,19 @@
         "expiration_date": "18-dec-2019",
         "state": "past"
     },
+    "pradma.com": {
+        "epoch": 1606867200.0,
+        "expiration_date": "02-dec-2020",
+        "state": "future"
+    },
     "premiumbros.com": {
         "epoch": 1599868800.0,
         "expiration_date": "12-sep-2020",
+        "state": "future"
+    },
+    "prestoris.com": {
+        "epoch": 1609200000.0,
+        "expiration_date": "29-dec-2020",
         "state": "future"
     },
     "prfct.co": {
@@ -1117,6 +1192,11 @@
     "pushlat.com": {
         "epoch": 1596931200.0,
         "expiration_date": "09-aug-2020",
+        "state": "future"
+    },
+    "pushnest.com": {
+        "epoch": 1611964800.0,
+        "expiration_date": "30-jan-2021",
         "state": "future"
     },
     "pushworldtool.com": {
@@ -1324,6 +1404,11 @@
         "expiration_date": "20-jul-2020",
         "state": "future"
     },
+    "swbdds.com": {
+        "epoch": 1610064000.0,
+        "expiration_date": "08-jan-2021",
+        "state": "future"
+    },
     "syndicpop.com": {
         "epoch": 1612396800.0,
         "expiration_date": "04-feb-2021",
@@ -1342,6 +1427,11 @@
     "terrasdsdstd.com": {
         "epoch": 1589673600.0,
         "expiration_date": "17-may-2020",
+        "state": "future"
+    },
+    "thterras.com": {
+        "epoch": 1603584000.0,
+        "expiration_date": "25-oct-2020",
         "state": "future"
     },
     "tindersohbet.xyz": {
@@ -1389,9 +1479,19 @@
         "expiration_date": "28-dec-2019",
         "state": "past"
     },
+    "turkeygo.com": {
+        "epoch": 1595462400.0,
+        "expiration_date": "23-jul-2020",
+        "state": "future"
+    },
     "turkishouds.com": {
         "epoch": 1687824000.0,
         "expiration_date": "27-jun-2023",
+        "state": "future"
+    },
+    "turkishtranslationsagency.com": {
+        "epoch": 1607212800.0,
+        "expiration_date": "06-dec-2020",
         "state": "future"
     },
     "turngrind.com": {
@@ -1418,6 +1518,11 @@
         "epoch": 1601856000.0,
         "expiration_date": "05-oct-2020",
         "state": "future"
+    },
+    "whatsapp-chat.xyz": {
+        "epoch": 1577318400.0,
+        "expiration_date": "26-dec-2019",
+        "state": "past"
     },
     "whatsappsohbet.site": {
         "epoch": 1576540800.0,
@@ -1452,6 +1557,11 @@
     "xnbfan.com": {
         "epoch": 1583712000.0,
         "expiration_date": "09-mar-2020",
+        "state": "future"
+    },
+    "xxccdshj.com": {
+        "epoch": 1592438400.0,
+        "expiration_date": "18-jun-2020",
         "state": "future"
     },
     "yakinindaki-kizlar1.info": {
@@ -1537,6 +1647,11 @@
     "yakinindaki-kizlar31.info": {
         "epoch": 1592438400.0,
         "expiration_date": "18-jun-2020",
+        "state": "future"
+    },
+    "yakinindaki-kizlar32.info": {
+        "epoch": 1593216000.0,
+        "expiration_date": "27-jun-2020",
         "state": "future"
     },
     "yakinindaki-kizlar6.info": {
