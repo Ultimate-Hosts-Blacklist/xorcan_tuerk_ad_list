@@ -1,6 +1,6 @@
 {
     "current_stats": {
-        "builds": 305,
+        "builds": 306,
         "counter": {
             "down": 0,
             "invalid": 0,
@@ -15,10 +15,13 @@
     },
     "currently_under_test": true,
     "days_until_next_test": 2,
+    "description": "Turkish Ad-list, Ad Blocking List, HOSTS",
     "end_datetime": "2020-03-03T16:34:48.988497",
     "end_epoch": 1583154628.764475,
+    "issue_link": "https://github.com/xorcan/hosts/issues/new/choose",
     "last_autosave_datetime": "2020-03-03T16:34:48.988508",
     "last_autosave_epoch": 1583245284.381948,
+    "link": "https://github.com/xorcan/hosts/",
     "name": "xorcan_tuerk_ad_list",
     "previous_stats": {
         "builds": 14,
@@ -35,9 +38,6 @@
         "whitelisted.list": 5024
     },
     "raw_link": "https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt",
-    "link": "https://github.com/xorcan/hosts/",
-    "issue_link": "https://github.com/xorcan/hosts/issues/new/choose",
-    "description": "Turkish Ad-list, Ad Blocking List, HOSTS",
     "start_datetime": "2020-03-03T16:34:48.992750",
     "start_epoch": 1583196072.078534
 }
