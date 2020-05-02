@@ -3884,6 +3884,11 @@
         "expiration_date": "19-feb-2021",
         "state": "future"
     },
+    "fastjumbo.live": {
+        "epoch": 1589932800.0,
+        "expiration_date": "20-may-2020",
+        "state": "future"
+    },
     "fbs-turk.trade": {
         "epoch": 1617580800.0,
         "expiration_date": "05-apr-2021",
@@ -4477,6 +4482,11 @@
     "haber-ankara.net": {
         "epoch": 1588809600.0,
         "expiration_date": "07-may-2020",
+        "state": "future"
+    },
+    "hacapuri.com.tr": {
+        "epoch": 1636329600.0,
+        "expiration_date": "08-nov-2021",
         "state": "future"
     },
     "hacisakirinsaat.com.tr": {
@@ -8240,9 +8250,9 @@
         "state": "future"
     },
     "rubiconproject.com": {
-        "epoch": 1588377600.0,
-        "expiration_date": "02-may-2020",
-        "state": "past"
+        "epoch": 1619913600.0,
+        "expiration_date": "02-may-2021",
+        "state": "future"
     },
     "rugipis.com": {
         "epoch": 1613174400.0,
