@@ -3914,6 +3914,11 @@
         "expiration_date": "14-apr-2022",
         "state": "future"
     },
+    "filmfiz.com": {
+        "epoch": 1592784000.0,
+        "expiration_date": "22-jun-2020",
+        "state": "future"
+    },
     "filmmoz.net": {
         "epoch": 1604102400.0,
         "expiration_date": "31-oct-2020",
@@ -6379,6 +6384,11 @@
         "expiration_date": "08-apr-2021",
         "state": "future"
     },
+    "mobileoffers-bn-download.com": {
+        "epoch": 1617840000.0,
+        "expiration_date": "08-apr-2021",
+        "state": "future"
+    },
     "mobileoffers-bo-download.com": {
         "epoch": 1617840000.0,
         "expiration_date": "08-apr-2021",
@@ -7447,7 +7457,7 @@
     "perabetmedya.com": {
         "epoch": 1588377600.0,
         "expiration_date": "02-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "perfectaudience.com": {
         "epoch": 1640304000.0,
