@@ -4499,6 +4499,11 @@
         "expiration_date": "10-mar-2021",
         "state": "future"
     },
+    "hasatvet.com.tr": {
+        "epoch": 1602720000.0,
+        "expiration_date": "15-oct-2020",
+        "state": "future"
+    },
     "hasekimuhendislik.com": {
         "epoch": 1601769600.0,
         "expiration_date": "04-oct-2020",
@@ -5194,6 +5199,11 @@
         "expiration_date": "01-apr-2021",
         "state": "future"
     },
+    "jumbokapinda.xyz": {
+        "epoch": 1582243200.0,
+        "expiration_date": "21-feb-2020",
+        "state": "past"
+    },
     "jumbomarket.live": {
         "epoch": 1618444800.0,
         "expiration_date": "15-apr-2021",
@@ -5610,9 +5620,9 @@
         "state": "future"
     },
     "leadoffer.xyz": {
-        "epoch": 1576800000.0,
-        "expiration_date": "20-dec-2019",
-        "state": "past"
+        "epoch": 1614988800.0,
+        "expiration_date": "06-mar-2021",
+        "state": "future"
     },
     "leetmedia.com": {
         "epoch": 1618099200.0,
@@ -7847,6 +7857,11 @@
     "push-time.com": {
         "epoch": 1594339200.0,
         "expiration_date": "10-jul-2020",
+        "state": "future"
+    },
+    "pushance.com": {
+        "epoch": 1606521600.0,
+        "expiration_date": "28-nov-2020",
         "state": "future"
     },
     "pushcrew.com": {
