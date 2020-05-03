@@ -2027,7 +2027,7 @@
     "betbysports.com": {
         "epoch": 1588464000.0,
         "expiration_date": "03-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "betco.link": {
         "epoch": 1592611200.0,
@@ -4492,6 +4492,11 @@
     "gulucuk.com.tr": {
         "epoch": 1604966400.0,
         "expiration_date": "10-nov-2020",
+        "state": "future"
+    },
+    "guncelleme.online": {
+        "epoch": 1614988800.0,
+        "expiration_date": "06-mar-2021",
         "state": "future"
     },
     "gundemhaber.org": {
