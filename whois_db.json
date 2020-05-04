@@ -5857,7 +5857,7 @@
     "lordspalacebet10.com": {
         "epoch": 1588550400.0,
         "expiration_date": "04-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "lordspalacebet2.com": {
         "epoch": 1606089600.0,
@@ -9692,6 +9692,11 @@
     "ucbetting.com": {
         "epoch": 1603411200.0,
         "expiration_date": "23-oct-2020",
+        "state": "future"
+    },
+    "ucretsiz-ekitaplar.site": {
+        "epoch": 1596326400.0,
+        "expiration_date": "02-aug-2020",
         "state": "future"
     },
     "ucretsiz-indirin.online": {
