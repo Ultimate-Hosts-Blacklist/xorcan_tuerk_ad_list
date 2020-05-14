@@ -4104,6 +4104,11 @@
         "expiration_date": "07-nov-2020",
         "state": "future"
     },
+    "friennity.com": {
+        "epoch": 1606780800.0,
+        "expiration_date": "01-dec-2020",
+        "state": "future"
+    },
     "fula.com.tr": {
         "epoch": 1615248000.0,
         "expiration_date": "09-mar-2021",
@@ -7865,9 +7870,9 @@
         "state": "future"
     },
     "projeanaliz.com": {
-        "epoch": 1589328000.0,
-        "expiration_date": "13-may-2020",
-        "state": "past"
+        "epoch": 1620864000.0,
+        "expiration_date": "13-may-2021",
+        "state": "future"
     },
     "promiton.tech": {
         "epoch": 1585872000.0,
@@ -8987,6 +8992,11 @@
     "sportdigi.com": {
         "epoch": 1598140800.0,
         "expiration_date": "23-aug-2020",
+        "state": "future"
+    },
+    "sportingcupmp.com": {
+        "epoch": 1611273600.0,
+        "expiration_date": "22-jan-2021",
         "state": "future"
     },
     "sportlijn.net": {
