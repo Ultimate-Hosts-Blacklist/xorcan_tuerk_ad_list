@@ -724,6 +724,11 @@
         "expiration_date": "06-may-2025",
         "state": "future"
     },
+    "adreda.com": {
+        "epoch": 1598054400.0,
+        "expiration_date": "22-aug-2020",
+        "state": "future"
+    },
     "adroll.com": {
         "epoch": 1602547200.0,
         "expiration_date": "13-oct-2020",
@@ -827,6 +832,11 @@
     "adsymptotic.com": {
         "epoch": 1694217600.0,
         "expiration_date": "09-sep-2023",
+        "state": "future"
+    },
+    "adtarget.com.tr": {
+        "epoch": 1727568000.0,
+        "expiration_date": "29-sep-2024",
         "state": "future"
     },
     "adtech.com": {
@@ -10350,9 +10360,9 @@
         "state": "future"
     },
     "yakinindaki-kizlar21.info": {
-        "epoch": 1589673600.0,
-        "expiration_date": "17-may-2020",
-        "state": "past"
+        "epoch": 1621209600.0,
+        "expiration_date": "17-may-2021",
+        "state": "future"
     },
     "yakinindaki-kizlar22.info": {
         "epoch": 1590019200.0,
