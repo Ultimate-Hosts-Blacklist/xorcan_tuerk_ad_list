@@ -629,6 +629,11 @@
         "expiration_date": "19-jul-2022",
         "state": "future"
     },
+    "admoxi.com": {
+        "epoch": 1602547200.0,
+        "expiration_date": "13-oct-2020",
+        "state": "future"
+    },
     "adnamo.net": {
         "epoch": 1611360000.0,
         "expiration_date": "23-jan-2021",
@@ -8865,6 +8870,11 @@
         "state": "future"
     },
     "smrtbnr.com": {
+        "epoch": 1611100800.0,
+        "expiration_date": "20-jan-2021",
+        "state": "future"
+    },
+    "smrtbnr.info": {
         "epoch": 1611100800.0,
         "expiration_date": "20-jan-2021",
         "state": "future"
