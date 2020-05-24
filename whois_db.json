@@ -567,7 +567,7 @@
     "adjust.io": {
         "epoch": 1590278400.0,
         "expiration_date": "24-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "adkernel.com": {
         "epoch": 1621814400.0,
@@ -2575,9 +2575,9 @@
         "state": "future"
     },
     "buguneozel.live": {
-        "epoch": 1590192000.0,
-        "expiration_date": "23-may-2020",
-        "state": "past"
+        "epoch": 1621728000.0,
+        "expiration_date": "23-may-2021",
+        "state": "future"
     },
     "burcelik.com.tr": {
         "epoch": 1595721600.0,
@@ -8550,8 +8550,8 @@
         "state": "future"
     },
     "schnson-honald.com": {
-        "epoch": 1590278400.0,
-        "expiration_date": "24-may-2020",
+        "epoch": 1621814400.0,
+        "expiration_date": "24-may-2021",
         "state": "future"
     },
     "scopriteistanbul.com": {
