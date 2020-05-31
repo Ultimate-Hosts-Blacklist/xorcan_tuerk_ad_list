@@ -2034,6 +2034,11 @@
         "expiration_date": "23-may-2021",
         "state": "future"
     },
+    "bestdatingclubs.com": {
+        "epoch": 1595721600.0,
+        "expiration_date": "26-jul-2020",
+        "state": "future"
+    },
     "bestpa.com.tr": {
         "epoch": 1604275200.0,
         "expiration_date": "02-nov-2020",
@@ -5647,7 +5652,7 @@
     "kocaeliposta.com": {
         "epoch": 1590883200.0,
         "expiration_date": "31-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "komsupeynirdukkani.com": {
         "epoch": 1614297600.0,
