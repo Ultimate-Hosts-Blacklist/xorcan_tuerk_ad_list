@@ -6617,7 +6617,7 @@
     "mobileoffers-bv-download.com": {
         "epoch": 1591488000.0,
         "expiration_date": "07-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "mobileoffers-bw-download.com": {
         "epoch": 1591488000.0,
@@ -7157,6 +7157,11 @@
     "oclasrv.com": {
         "epoch": 1601510400.0,
         "expiration_date": "01-oct-2020",
+        "state": "future"
+    },
+    "offergold.online": {
+        "epoch": 1622937600.0,
+        "expiration_date": "06-jun-2021",
         "state": "future"
     },
     "offinator.com": {
@@ -10525,8 +10530,8 @@
         "state": "future"
     },
     "yanus.com.tr": {
-        "epoch": 1591488000.0,
-        "expiration_date": "07-jun-2020",
+        "epoch": 1623024000.0,
+        "expiration_date": "07-jun-2021",
         "state": "future"
     },
     "yaphuiyee.com": {
