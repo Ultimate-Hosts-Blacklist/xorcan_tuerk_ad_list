@@ -137,7 +137,7 @@
     "1xslot1.com": {
         "epoch": 1591920000.0,
         "expiration_date": "12-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "1xspor.mobi": {
         "epoch": 1621036800.0,
@@ -4510,9 +4510,9 @@
         "state": "future"
     },
     "granantrade1.com": {
-        "epoch": 1591833600.0,
-        "expiration_date": "11-jun-2020",
-        "state": "past"
+        "epoch": 1623369600.0,
+        "expiration_date": "11-jun-2021",
+        "state": "future"
     },
     "grand-ads.com": {
         "epoch": 1620864000.0,
@@ -8457,7 +8457,7 @@
     "safariinsaat.com.tr": {
         "epoch": 1591920000.0,
         "expiration_date": "12-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "safirambalaj.com.tr": {
         "epoch": 1602288000.0,
