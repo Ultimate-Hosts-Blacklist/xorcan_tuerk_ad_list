@@ -2382,7 +2382,7 @@
     "blok.link": {
         "epoch": 1593820800.0,
         "expiration_date": "04-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "bluekai.com": {
         "epoch": 1593993600.0,
@@ -3605,8 +3605,8 @@
         "state": "future"
     },
     "emkadogalgaz.com.tr": {
-        "epoch": 1593820800.0,
-        "expiration_date": "04-jul-2020",
+        "epoch": 1625356800.0,
+        "expiration_date": "04-jul-2021",
         "state": "future"
     },
     "emlakbizden.com": {
@@ -4957,6 +4957,11 @@
     "imeco-tr.com": {
         "epoch": 1603411200.0,
         "expiration_date": "23-oct-2020",
+        "state": "future"
+    },
+    "incipeynircilik.com": {
+        "epoch": 1625270400.0,
+        "expiration_date": "03-jul-2021",
         "state": "future"
     },
     "indextrck.com": {
