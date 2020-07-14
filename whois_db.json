@@ -2009,6 +2009,11 @@
         "expiration_date": "27-jul-2020",
         "state": "future"
     },
+    "bedavapdfkitap.com": {
+        "epoch": 1607472000.0,
+        "expiration_date": "09-dec-2020",
+        "state": "future"
+    },
     "bedavayuz.com": {
         "epoch": 1603324800.0,
         "expiration_date": "22-oct-2020",
@@ -2787,6 +2792,11 @@
     "cepsohbetler10.online": {
         "epoch": 1618531200.0,
         "expiration_date": "16-apr-2021",
+        "state": "future"
+    },
+    "cepsohbetler11.online": {
+        "epoch": 1619568000.0,
+        "expiration_date": "28-apr-2021",
         "state": "future"
     },
     "cepsohbetler12.online": {
@@ -9867,7 +9877,7 @@
     "turkwarez.com": {
         "epoch": 1594684800.0,
         "expiration_date": "14-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "turn.com": {
         "epoch": 1711929600.0,
