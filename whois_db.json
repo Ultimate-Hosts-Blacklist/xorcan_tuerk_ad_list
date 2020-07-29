@@ -8399,6 +8399,11 @@
         "expiration_date": "24-mar-2021",
         "state": "future"
     },
+    "reklamoloji.com": {
+        "epoch": 1627430400.0,
+        "expiration_date": "28-jul-2021",
+        "state": "future"
+    },
     "reklampazar.com": {
         "epoch": 1598486400.0,
         "expiration_date": "27-aug-2020",
@@ -8502,7 +8507,7 @@
     "rlink.xyz": {
         "epoch": 1595980800.0,
         "expiration_date": "29-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "rmz-e.com": {
         "epoch": 1621296000.0,
