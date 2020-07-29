@@ -6187,7 +6187,7 @@
     "makrobetcdn.com": {
         "epoch": 1595980800.0,
         "expiration_date": "29-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "makrobetmedya.com": {
         "epoch": 1619913600.0,
@@ -7472,6 +7472,11 @@
     "onthe.io": {
         "epoch": 1611878400.0,
         "expiration_date": "29-jan-2021",
+        "state": "future"
+    },
+    "onurcanemlak.com": {
+        "epoch": 1627430400.0,
+        "expiration_date": "28-jul-2021",
         "state": "future"
     },
     "opelservisibodrum.com": {
@@ -8920,9 +8925,9 @@
         "state": "future"
     },
     "sileoturkiye.com": {
-        "epoch": 1595894400.0,
-        "expiration_date": "28-jul-2020",
-        "state": "past"
+        "epoch": 1627430400.0,
+        "expiration_date": "28-jul-2021",
+        "state": "future"
     },
     "silverstatic.com.tr": {
         "epoch": 1581206400.0,
