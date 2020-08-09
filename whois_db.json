@@ -5182,7 +5182,7 @@
     "insertcoinage.com": {
         "epoch": 1596931200.0,
         "expiration_date": "09-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "inspectlet.com": {
         "epoch": 1678492800.0,
@@ -7795,8 +7795,8 @@
         "state": "future"
     },
     "pefwfw.pro": {
-        "epoch": 1596931200.0,
-        "expiration_date": "09-aug-2020",
+        "epoch": 1628467200.0,
+        "expiration_date": "09-aug-2021",
         "state": "future"
     },
     "peksoz.av.tr": {
@@ -10912,7 +10912,7 @@
     "yildiriminsaat.com.tr": {
         "epoch": 1596931200.0,
         "expiration_date": "09-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "yonsoft.com.tr": {
         "epoch": 1600300800.0,
