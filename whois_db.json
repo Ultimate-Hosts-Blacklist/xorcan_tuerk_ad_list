@@ -452,7 +452,7 @@
     "adbetnet.com": {
         "epoch": 1597363200.0,
         "expiration_date": "14-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "adbetnetwork.com": {
         "epoch": 1605916800.0,
@@ -5235,8 +5235,8 @@
         "state": "future"
     },
     "ipekkirpik.com.tr": {
-        "epoch": 1597363200.0,
-        "expiration_date": "14-aug-2020",
+        "epoch": 1755129600.0,
+        "expiration_date": "14-aug-2025",
         "state": "future"
     },
     "irankargo.com.tr": {
