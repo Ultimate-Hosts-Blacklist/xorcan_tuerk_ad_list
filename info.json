@@ -1,41 +1,19 @@
 {
-    "current_stats": {
-        "builds": 3162,
-        "counter": {
-            "down": 0,
-            "invalid": 0,
-            "malicious": 0,
-            "sane": 0,
-            "tested": 0,
-            "up": 0,
-            "valid": 0
-        },
-        "volatile.list": 5017,
-        "whitelisted.list": 5017
-    },
     "currently_under_test": true,
+    "custom_pyfunceble_config": {},
     "days_until_next_test": 2,
     "description": "Turkish Ad-list, Ad Blocking List, HOSTS",
     "end_datetime": "2020-03-03T16:34:48.988497",
     "end_epoch": 1583154628.764475,
     "issue_link": "https://github.com/xorcan/hosts/issues/new/choose",
-    "last_autosave_datetime": "2020-03-03T16:34:48.988508",
-    "last_autosave_epoch": 1583245284.381948,
     "link": "https://github.com/xorcan/hosts/",
     "name": "xorcan_tuerk_ad_list",
-    "previous_stats": {
-        "builds": 14,
-        "clean.list": 5029,
-        "counter": {
-            "down": 2746,
-            "invalid": 5,
-            "tested": 7780,
-            "up": 5029
-        },
-        "domains.list": 7780,
-        "ip.list": 0,
-        "volatile.list": 5024,
-        "whitelisted.list": 5024
+    "previous_end_datetime": "2020-01-25T04:20:09.191391",
+    "previous_end_epoch": 1579926009.191394,
+    "previous_start_datetime": "2020-01-25T04:20:09.191380",
+    "previous_start_epoch": 1579926009.191393,
+    "pyfunceble": {
+        "config": {}
     },
     "raw_link": "https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt",
     "start_datetime": "2020-03-03T16:34:48.992750",
